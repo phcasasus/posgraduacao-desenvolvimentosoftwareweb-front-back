@@ -1,0 +1,23 @@
+[
+  {
+    "codigo": "1",
+    "nome": "iPhone 16",
+    "categoria": "Eletrônicos",
+    "preco": 3000.00,
+    "imagem": "https://m.media-amazon.com/images/I/61bK6PMOC3L.jpg"
+  },
+  {
+    "codigo": "2",
+    "nome": "Samsung Galaxy S23",
+    "categoria": "Eletrônicos",
+    "preco": 2500.00,
+    "imagem": "https://a-static.mlcdn.com.br/1500x1500/smartphone-samsung-galaxy-s23-256gb-preto-5g-8gb-ram-61-cam-tripla-selfie-12mp/magazineluiza/232854100/e9fd12e9a66f2797bce34c5169369937.jpg"
+  },
+  {
+    "codigo": "3",
+    "nome": "Smart TV LG 50''",
+    "categoria": "Eletrônicos",
+    "preco": 2200.00,
+    "imagem": "https://fujiokadistribuidor.vteximg.com.br/arquivos/ids/168984"
+  }
+]
